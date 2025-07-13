@@ -1,4 +1,4 @@
-# Masterthesis
+# Masterthesis - NLP - Topic Modeling
 
 This repository includes the code and notebooks created or used for my Master thesis. 
 
